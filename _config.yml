@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Evgeny Lagutin"
   avatar           : "profile.png"
   bio              : "Data Scientist, ML/DL Researcher"
   location         : # "Location"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "http:github.com/sverdoot"
+  github           : "sverdoot"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sverdoot"
+  twitter          : # "sverdoot"
   vine             :
   weibo            :
   xing             :
